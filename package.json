@@ -1,0 +1,15 @@
+{
+  "private": "true",
+  "name": "decrypt_bts_key",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "checksum": "node checksum.js",
+    "decrypt": "node decrypt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitsharesjs": "^3.1.1"
+  }
+}
